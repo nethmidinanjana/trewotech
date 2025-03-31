@@ -1,1 +1,0 @@
-function loadEnv($path)
